@@ -14,7 +14,7 @@ List of adapters:
 
 ![image](https://user-images.githubusercontent.com/9215219/146637081-49aa4111-5f65-4181-8d61-4aa003b87938.png)
 
-Imager of full network capture:
+Image of full network capture:
 
 ![image](https://user-images.githubusercontent.com/9215219/146637107-fa36e0fa-a687-47a4-8780-26239a9c9d37.png)
 
