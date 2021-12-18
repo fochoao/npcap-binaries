@@ -1,6 +1,6 @@
 ### NPCAP - Binaries
 
-#Npcap x64 and x86 bits binarties for Windows.
+# Npcap x64 and x86 bits binarties for Windows.
 
 Example of capturing data with different devices:
 
